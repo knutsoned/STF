@@ -15,3 +15,5 @@ Act IV: The camera pulls back and reveals the train tracks are on the flight dec
 Epilogue: If the player swatted the butterfly, the ship sinks and the ICBM is unable to launch. The camera zooms in on the car in the bottle, bobbing in the waves.
 
 Otherwise the ICBM launches, wearing a comically sized cowboy hat.
+
+Planned DLC: A level that takes place entirely inside the glove compartment called Escape From Swat The Fly: Swat Another Slightly Different Fly

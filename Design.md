@@ -1,4 +1,4 @@
-"A gritty Cyberpunk 2077 reboot set in the late Cold War era"
+"A gritty Cyberpunk 2077 prequel reboot set in the late Cold War era"
 
 Prologue: You are Kirk Huscle, tasked by the president with stopping a Soviet ICBM from launching and starting WWIII or whatever.
 

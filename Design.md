@@ -10,7 +10,7 @@ Act II: The camera pulls up and points downward, revealing another car that appe
 
 Act III: The camera pulls up further and the cars are revealed to be on top of a flatbed train car attached to an oil tanker car. The crash makes the train start rolling toward a broken part of the track.
 
-Act IV: The camera pulls back and reveals the train tracks are on the flight deck of an aircraft carrier. The train derailing causes the train to miss its intended target which is the Soviet ICBM the player is supposed to stop. However, it does cause the aircraft carrier to start moving toward an iceberg.
+Act IV: The camera pulls back and reveals the train tracks are on the flight deck of an aircraft carrier. The Soviet ICBM the player is supposed to stop is in launch position at the end of the tracks. The train derailing causes the train to miss its intended target. However, it does cause the aircraft carrier to start moving toward an iceberg.
 
 Epilogue: If the player swatted the butterfly, the ship sinks and the ICBM is unable to launch. The camera zooms in on the car in the bottle, bobbing in the waves.
 
